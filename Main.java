@@ -3,6 +3,7 @@ public class Main {
     HashSet<Integer> ser = new HashSet<>();
     HashMap<> map = new HashMap<>();
     List<Integer> ls = new ArrayList<>();
+    int[] arr = new int[10];
   }
 }
 
